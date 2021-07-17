@@ -1,0 +1,13 @@
+{
+  "name": "weathercastmagicspell3000",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "A.G",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
