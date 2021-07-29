@@ -1,1 +1,8 @@
-[]
+[
+	{
+		"location": "Helsinki",
+		"temperature": 15,
+		"humidity": 53,
+		"pressure": 1010
+	}
+]

@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
-    "start": "node ."
+    "test": "jest"
   },
   "author": "A.G",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
   }
 }
